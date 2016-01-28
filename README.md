@@ -45,7 +45,7 @@ Download AntTweakBar
 cd AntTweakBar/src
 make
 sudo cp ../include/* /usr/local/include
-sudo cp ../liblibAntTweakBar.* /usr/local/lib
+sudo cp ../lib/libAntTweakBar.* /usr/local/lib
 ```
 
 Download GLFW3 (do not use ```apt-get install libglfw-dev```, it is wrong version)
